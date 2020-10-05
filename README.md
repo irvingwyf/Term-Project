@@ -1,6 +1,6 @@
 # Term-Project
 multi-speaker identification 
-Literature Review:
+#Literature Review:
 Speaker Diarization:
 •	Speech Detection: Extract speech part in one audio recording using a Voice Activity Detector (VAD) module.
 •	Speech Segmentation: Extract out small segments of your audio call in a continuous manner.
